@@ -14,7 +14,8 @@
   "homepage": "https://github.com/coderwlz/utils",
   "main": "index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "utils/*"
   ],
   "license": "ISC",
   "private": false,
