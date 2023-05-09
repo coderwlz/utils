@@ -1,1 +1,5 @@
 export * from './regexp.js'
+export * from './img.js'
+export * from './file.js'
+export * from './date.js'
+export * from './color.js'
